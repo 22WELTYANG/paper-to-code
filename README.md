@@ -8,7 +8,7 @@
 [![Agents](https://img.shields.io/badge/agents-Claude%20Code%20%7C%20Codex%20%7C%20Cursor-8A2BE2.svg)](SKILL.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/22WELTYANG/paper-to-code/pulls)
 [![Status](https://img.shields.io/badge/status-research%20preview-orange.svg)](#roadmap)
-[![License](https://img.shields.io/badge/license-TBD-lightgrey.svg)](#license)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **English** | [简体中文](#简体中文)
 
