@@ -203,9 +203,6 @@ smoke 实验不等于完整复现；缺失超参数必须标注 `ASSUMED` 并附
 
 ## Star History
 
-
-## Star History
-
 <a href="https://www.star-history.com/?type=date&repos=22WELTYANG%2Fpaper-to-code">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=22WELTYANG/paper-to-code&type=date&theme=dark&legend=top-left" />
@@ -213,7 +210,6 @@ smoke 实验不等于完整复现；缺失超参数必须标注 `ASSUMED` 并附
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=22WELTYANG/paper-to-code&type=date&legend=top-left" />
  </picture>
 </a>
-
 
 ## License
 
