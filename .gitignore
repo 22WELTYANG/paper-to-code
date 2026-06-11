@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+runs/
+generated-repo/
+.DS_Store
